@@ -34,7 +34,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,redux,zustand,vue,nuxt,svelte,solid,astro,vite,webpack,rollup,three,wasm,webgl,gsap,graphql,apollo,nodejs,express,deno,bun,prisma,postgres,mysql,sqlite,redis,vitest,jest,pytest,playwright,cypress,testing-library,storybook,eslint,prettier,git,github,gitlab,githubactions,docker,kubernetes,nginx,vercel,netlify,figma,ps,ai,md&perline=11" /></a>
 </p>
 
-> اگر آیکونی جا افتاده، لیست بالا را به‌راحتی ویرایش کن. (از [skillicons.dev](https://skillicons.dev) استفاده شده است.)
+> 
 
 ---
 
